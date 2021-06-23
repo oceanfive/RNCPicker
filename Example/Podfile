@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNCPicker_Tests' do
+  pod 'RNCPicker', :path => '../'
+  
+  
+end
